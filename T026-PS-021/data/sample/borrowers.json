@@ -1,0 +1,38 @@
+{
+  "borrowers": [
+    {
+      "borrower_id": "B001",
+      "name": "Meera Iyer",
+      "dob": "1990-06-20",
+      "gender": "F",
+      "net_income_monthly": 150000,
+      "credit_score": 780,
+      "coapplicant": {
+        "name": "Arjun Iyer",
+        "income_monthly": 120000,
+        "relationship": "SPOUSE"
+      }
+    },
+    {
+      "borrower_id": "B002",
+      "name": "Rohan Mehta",
+      "dob": "1975-01-10",
+      "gender": "M",
+      "net_income_monthly": 200000,
+      "credit_score": 748,
+      "coapplicant": {
+        "name": "Suresh Mehta",
+        "income_monthly": 60000,
+        "relationship": "OTHER"
+      }
+    },
+    {
+      "borrower_id": "B003",
+      "name": "Vikram Nair",
+      "dob": "1992-11-05",
+      "gender": "M",
+      "net_income_monthly": 85000,
+      "credit_score": 710
+    }
+  ]
+}

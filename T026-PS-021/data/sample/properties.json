@@ -1,0 +1,37 @@
+{
+  "properties": [
+    {
+      "property_id": "P001",
+      "agreement_value": 3000000,
+      "builder_name": "Prestige Constructions",
+      "stages": [
+        {"stage_name": "Foundation",  "percentage": 20},
+        {"stage_name": "Superstructure", "percentage": 30},
+        {"stage_name": "Brickwork",   "percentage": 25},
+        {"stage_name": "Finishing",   "percentage": 25}
+      ]
+    },
+    {
+      "property_id": "P002",
+      "agreement_value": 5500000,
+      "builder_name": "Godrej Properties",
+      "stages": [
+        {"stage_name": "Foundation",  "percentage": 15},
+        {"stage_name": "Structure",   "percentage": 35},
+        {"stage_name": "Plastering",  "percentage": 25},
+        {"stage_name": "Handover",    "percentage": 25}
+      ]
+    },
+    {
+      "property_id": "P003",
+      "agreement_value": 9000000,
+      "builder_name": "DLF Luxury Homes",
+      "stages": [
+        {"stage_name": "Basement",    "percentage": 10},
+        {"stage_name": "Structure",   "percentage": 40},
+        {"stage_name": "Interiors",   "percentage": 30},
+        {"stage_name": "Possession",  "percentage": 20}
+      ]
+    }
+  ]
+}

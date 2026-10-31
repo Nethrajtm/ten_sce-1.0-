@@ -1,0 +1,41 @@
+{
+  "benchmark_rate": 8.5,
+  "commands": [
+    {
+      "command": "SANCTION",
+      "date": "2024-01-15",
+      "borrower_id": "B001",
+      "property_id": "P001"
+    },
+    {
+      "command": "SANCTION",
+      "date": "2024-01-15",
+      "borrower_id": "B001",
+      "property_id": "P002"
+    },
+    {
+      "command": "SANCTION",
+      "date": "2024-01-15",
+      "borrower_id": "B002",
+      "property_id": "P002"
+    },
+    {
+      "command": "SANCTION",
+      "date": "2024-01-15",
+      "borrower_id": "B002",
+      "property_id": "P003"
+    },
+    {
+      "command": "SANCTION",
+      "date": "2024-01-15",
+      "borrower_id": "B003",
+      "property_id": "P001"
+    },
+    {
+      "command": "SANCTION",
+      "date": "2024-01-15",
+      "borrower_id": "B003",
+      "property_id": "P002"
+    }
+  ]
+}
